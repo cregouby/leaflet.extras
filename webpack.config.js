@@ -235,6 +235,10 @@ const config = [
   library_prod("leaflet.BounceMarker", "lfx-bouncemarker"),
   library_binding("lfx-bouncemarker"),
 
+  // "leaflet.migrationLayer": "github:lit-forest/leaflet.migrationLayer",
+  library_prod("leaflet.migrationLayer", "lfx-migrationLayer"),
+  library_binding("lfx-migrationLayer"),
+
 
   library_binding("map-widget-style")
 
